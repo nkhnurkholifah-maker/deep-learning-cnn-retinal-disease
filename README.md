@@ -114,6 +114,10 @@ The notebook contains all steps from data preparation to evaluation.
 
 ![Micro metrics](results/figures/micro_metrics.png)
 
+![Micro metrics](results/figures/model_comparison_table.png)
+
+The DenseNet121 Improve achieved the best overall Micro F1 among all evaluated models.
+
 ### Per-label F1 (DenseNet121 Improve)
 ![F1 per disease](results/figures/f1_per_disease.png)
 
