@@ -96,12 +96,17 @@ The notebook contains all steps from data preparation to evaluation.
 ## 5. Result
 ### Training Curves (DenseNet121 Improve)
 ![Loss per epoch](results/figures/loss_per_epoch.png)
+
 ![PR-AUC per epoch](results/figures/prauc_per_epoch.png)
 
 ### Model Comparison (Micro metrics)
+
 ![Micro F1](results/figures/micro_f1.png)
+
 ![Micro Precision](results/figures/micro_precision.png)
+
 ![Micro Recall](results/figures/micro_recall.png)
+
 ![Micro metrics](results/figures/micro_metrics.png)
 
 ### Per-label F1 (DenseNet121 Improve)
