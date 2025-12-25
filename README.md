@@ -43,9 +43,8 @@ The model outputs independent probabilities for each disease using a sigmoid act
 
 ### Dataset Download
 Download ODIR-5K from Kaggle:
-```text
 https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k
-```
+
 > Note: The dataset is not included in this repository due to size and licensing constraints.  
 > Users should download the dataset separately and update the data paths accordingly.
 
