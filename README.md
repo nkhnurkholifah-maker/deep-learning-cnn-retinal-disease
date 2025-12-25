@@ -12,10 +12,9 @@ In the real world clinical datasets, ocular disease datasets commonly face multi
 
 ---
 ## 1. Problem Definition
-This project addresses the problem of **multi-label retinal disease classification** from fundus images.
-Unlike multi-class classification, a single retinal image may contain **multiple co-existing diseases**, therefore the task is formulated as a **multi-label classification problem**.
-
+This project focuses on automated multi-label classification of retinal fundus images to support ocular disease diagnosis. Using the ODIR-5K dataset, convolutional neural networks with transfer learning are employed to detect multiple co-existing eye diseases from a single image. The goal is to compare different CNN architectures and evaluate their effectiveness using standard multi-label classification metrics.
 The model outputs independent probabilities for each disease using a sigmoid activation function, enabling the prediction of more than one condition per image.
+
 
 **Disease Labels (8):**
 - N: Normal
