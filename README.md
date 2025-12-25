@@ -40,6 +40,11 @@ The model outputs independent probabilities for each disease using a sigmoid act
 - Data augmentation is applied **only to the training set**
 - Validation data is kept unchanged for unbiased evaluation
 
+### Dataset Download
+Download ODIR-5K from Kaggle:
+```text
+https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k
+```
 > Note: The dataset is not included in this repository due to size and licensing constraints.  
 > Users should download the dataset separately and update the data paths accordingly.
 
@@ -81,7 +86,6 @@ pip install -r requirements.txt
 
 ### B. Running the Experiments
 To run the project:
-```md
 1. Open the notebook `notebooks/deep_learning_cnn_retinal_disease.ipynb` in Google Colab. 
 2. Upload or mount your dataset (e.g., via Google Drive).
 3. Ensure that the file paths match the dataset structure.
@@ -90,7 +94,7 @@ To run the project:
   - Baseline and transfer learning model training
   - Evaluation and metric computation
   - Threshold optimization and final comparisons
-```
+
 The notebook contains all steps from data preparation to evaluation.
 
 ---
