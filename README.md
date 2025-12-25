@@ -12,12 +12,10 @@ In the real world clinical datasets, ocular disease datasets commonly face multi
 
 ---
 ## 1. Problem Definition
-<p align="justify">
 This project addresses the problem of **multi-label retinal disease classification** from fundus images.
 Unlike multi-class classification, a single retinal image may contain **multiple co-existing diseases**, therefore the task is formulated as a **multi-label classification problem**.
 
 The model outputs independent probabilities for each disease using a sigmoid activation function, enabling the prediction of more than one condition per image.
-</p>
 
 **Disease Labels (8):**
 - N: Normal
