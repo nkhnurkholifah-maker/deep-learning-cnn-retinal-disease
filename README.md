@@ -91,10 +91,10 @@ To run the project:
 4. Ensure that the file paths match the dataset structure.
 5. Run the notebook sequentially from top to bottom.
 6. Run cells in order:
-  - Data loading and preprocessing
-  - Baseline and transfer learning model training
-  - Evaluation and metric computation
-  - Threshold optimization and final comparisons
+   - Data loading and preprocessing
+   - Baseline and transfer learning model training
+   - Evaluation and metric computation
+   - Threshold optimization and final comparisons
 
 The notebook contains all steps from data preparation to evaluation.
 
