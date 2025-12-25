@@ -98,6 +98,13 @@ To run the project:
 
 The notebook contains all steps from data preparation to evaluation.
 
+### Optional: Run via Scripts (Wrappers)
+- `python train.py`
+- `python eval.py`
+
+Note: The full training, validation, and evaluation logic is implemented in the main notebook.
+The wrapper scripts execute the notebook sequentially from top to bottom to ensure consistency.
+
 ---
 
 ## 5. Result
