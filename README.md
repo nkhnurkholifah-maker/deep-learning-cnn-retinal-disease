@@ -85,10 +85,12 @@ pip install -r requirements.txt
 
 ### B. Running the Experiments
 To run the project:
-1. Open the notebook `notebooks/deep_learning_cnn_retinal_disease.ipynb` in Google Colab. 
-2. Upload or mount your dataset (e.g., via Google Drive).
-3. Ensure that the file paths match the dataset structure.
-4. Run cells in order:
+1. Install the required dependencies listed in `requirements.txt`.
+2. Open the notebook `notebooks/deep_learning_cnn_retinal_disease.ipynb`.
+3. Upload or mount your dataset (e.g., via Google Drive).
+4. Ensure that the file paths match the dataset structure.
+5. Run the notebook sequentially from top to bottom.
+6. Run cells in order:
   - Data loading and preprocessing
   - Baseline and transfer learning model training
   - Evaluation and metric computation
