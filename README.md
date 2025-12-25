@@ -102,6 +102,10 @@ The notebook contains all steps from data preparation to evaluation.
 - `python train.py`
 - `python eval.py`
 
+Optional (only for wrapper scripts):
+```bash
+pip install -r requirements-dev.txt
+```
 Note: The full training, validation, and evaluation logic is implemented in the main notebook.
 The wrapper scripts execute the notebook sequentially from top to bottom to ensure consistency.
 
