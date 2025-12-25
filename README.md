@@ -7,7 +7,7 @@ Deep learning is a branch of machine learning field in which models learn comple
  Among the various deep learning architectures, Convolutional Neural Networks (CNNs) have emerged as a dominant framework, particularly in tasks involving image and spatial data (Virginia et al., 2025). CNNs also have become the dominant architecture for image-based medical diagnosis. CNNs are specifically designed to process visual data through convolutional and pooling layers, allowing the model to automatically learn hierarchical visual features from low-level edges to high-level related patterns.
 In the real world clinical datasets, ocular disease datasets commonly face multi-label characteristics and highly imbalanced class distributions, where certain diseases appear far less frequently than others. These can reduce the effectiveness of conventional CNN models and evaluation strategies that rely solely on accuracy. This project applies transfer learning based CNN architectures for multi-label ocular disease classification by using retinal fundus images while also compares the performance of multiple CNN architectures to identify the most suitable model for multi-label ocular disease classification. Specifically, the CNN architectures VGG16, ResNet50, and DenseNet121 are utilized due to their proven effectiveness in medical image classification.
 </p>
-**Keywords:**Deep Learning, Convolutional Neural Networks, Image Classification, Ocular disease
+**Keywords:** Deep Learning, Convolutional Neural Networks, Image Classification, Ocular disease
 
 ---
 ## 1. Problem Definition
