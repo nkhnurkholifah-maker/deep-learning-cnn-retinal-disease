@@ -101,7 +101,7 @@ The notebook contains all steps from data preparation to evaluation.
 
 ### Model Comparison (Micro metrics)
 
-![Micro F1](results/figures/micro_f1.png)
+![Micro F1](results/figures/micro_f1..png)
 
 ![Micro Precision](results/figures/micro_precision.png)
 
