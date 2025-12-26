@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as follows."
+title: "Multi-Label Retinal Disease Classification using Deep Learning (ODIR-5K)"
+type: software
+authors:
+  - given-names: "Nur Kholifah"
+repository-code: "https://github.com/nkhnurkholifah-maker/deep-learning-cnn-retinal-disease"
+url: "https://github.com/nkhnurkholifah-maker/deep-learning-cnn-retinal-disease"
+keywords:
+  - deep learning
+  - convolutional neural networks
+  - multi-label classification
+  - retinal fundus images
+  - ocular disease
+  - ODIR-5K
+date-released: "2025-12-26"
