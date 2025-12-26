@@ -69,7 +69,7 @@ The following models are evaluated:
 - **ResNet50 (Transfer Learning)**  
   Incorporates residual connections to improve gradient flow in deeper networks.
 
-- **DenseNet121 (Improved Model)**  
+- **DenseNet121 (Transfer Learning)**  
   Employs dense connections that enable feature reuse and improved representation learning, particularly beneficial for medical images.
 
 ### Improved Training Strategy (DenseNet121 Improve)
