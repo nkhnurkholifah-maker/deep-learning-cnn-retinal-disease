@@ -120,7 +120,7 @@ Running train.py and eval.py executes the full notebook and may take a long time
 
 ---
 
-## 5. Result
+## 5. Results
 ### Training Curves (DenseNet121 Improve)
 ![Loss per epoch](results/figures/loss_per_epoch.png)
 
