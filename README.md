@@ -11,6 +11,14 @@ In the real world clinical datasets, ocular disease datasets commonly face multi
 **Keywords:** Deep Learning, Convolutional Neural Networks, Image Classification, Ocular disease
 
 ---
+
+### Quick Inspection
+
+For quick inspection, please refer to the **Results** section and the final presentation PDF 
+(`Presentation Retinal Disease with CNN.pdf`), which summarize the experimental setup,
+model comparisons, and key findings.
+
+---
 ## 1. Problem Definition
 <p align="justify">
 Ocular diseases are a major cause of vision impairment worldwide, and early detection plays a crucial role in preventing permanent blindness. This project focuses on automated multi-label classification of retinal fundus images to support ocular disease diagnosis. Using the ODIR-5K dataset, convolutional neural networks with transfer learning are employed to detect multiple co-existing eye diseases from a single image. The goal is to compare different CNN architectures and evaluate their effectiveness using standard multi-label classification metrics. The model outputs independent probabilities for each disease using a sigmoid activation function, enabling the prediction of more than one condition per image. 
