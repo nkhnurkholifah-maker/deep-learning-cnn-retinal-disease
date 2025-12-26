@@ -108,6 +108,7 @@ pip install -r requirements-dev.txt
 ```
 Note: The full training, validation, and evaluation logic is implemented in the main notebook.
 The wrapper scripts execute the notebook sequentially from top to bottom to ensure consistency.
+Running train.py and eval.py executes the full notebook and may take a long time depending on GPU and dataset access.
 
 ---
 
